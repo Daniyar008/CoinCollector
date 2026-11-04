@@ -1,0 +1,28 @@
+PASS Build starts at MainMenu
+PASS Scene sequence level 1
+PASS Correct coin target level 1
+PASS Pause excludes time from record
+PASS Actual coin triggers win level 1
+PASS Result UI and saved record level 1
+PASS Record persisted level 1
+PASS Next button exists
+PASS Scene sequence level 2
+PASS Correct coin target level 2
+PASS Pause excludes time from record
+PASS Actual coin triggers win level 2
+PASS Result UI and saved record level 2
+PASS Record persisted level 2
+PASS Next button exists
+PASS Scene sequence level 3
+PASS Correct coin target level 3
+PASS Pause excludes time from record
+PASS Actual coin triggers win level 3
+PASS Result UI and saved record level 3
+PASS Record persisted level 3
+PASS Final level has no Next button
+PASS Victory menu returns
+PASS Menu shows level one record
+PASS Slower run preserves faster record
+PASS Restart resets state
+PASS Death and health slider retained
+ALL MODULE 5 CHECKS PASSED
